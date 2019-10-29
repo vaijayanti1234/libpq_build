@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\vaijayanti.rs\source\repos\POC_pqxx\POC_pqxx\Source.cpp(47,22): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  1 of 272 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  POC_pqxx.vcxproj -> C:\Users\vaijayanti.rs\source\repos\POC_pqxx\Release\POC_pqxx.exe

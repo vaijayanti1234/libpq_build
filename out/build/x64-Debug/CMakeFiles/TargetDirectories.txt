@@ -1,0 +1,5 @@
+C:/Users/vaijayanti.rs/source/repos/POC_pqxx/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/vaijayanti.rs/source/repos/POC_pqxx/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/vaijayanti.rs/source/repos/POC_pqxx/out/build/x64-Debug/POC_pqxx/CMakeFiles/CMakeProject_POC_pqxx.dir
+C:/Users/vaijayanti.rs/source/repos/POC_pqxx/out/build/x64-Debug/POC_pqxx/CMakeFiles/edit_cache.dir
+C:/Users/vaijayanti.rs/source/repos/POC_pqxx/out/build/x64-Debug/POC_pqxx/CMakeFiles/rebuild_cache.dir
