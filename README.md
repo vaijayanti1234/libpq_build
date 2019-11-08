@@ -20,3 +20,5 @@ Expectations from POC:
       i.	the program should gracefully close the connection with DB and exit
 4.	The code should be modular and extendable. For example, in future if any other DB support is required, it should be easy to do that without making a lot of changes in the existing code. 
 5.	The complete project should be hosted on github.com, in a way that anyone could clone it and build it.
+
+
