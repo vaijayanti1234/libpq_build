@@ -1,4 +1,3 @@
-# libpq_build
 
 This is the solution for the given problem statement below:
 
